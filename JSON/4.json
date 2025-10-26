@@ -1,0 +1,13 @@
+{
+    "nazwa_systemu": "Transport Miejski Kraków",
+    "rok_uruchomienia": 1999,
+    "wersja_danych": 3.14,
+    "czy_aktualny": true,
+    "liczba_lini_aktywnych": 55,
+    "typ_lini_dominujacy": "autobus",
+    "linie_zawieszone": ["123","523","623"],
+    "status_magazynow_danych": {
+        "rozkłady_online": "OK",
+        "lokalizacja_gps": "Opóźniony"
+    }
+}
