@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transport>
+    <type>
+        <name>Square</name>
+        <type>2D</type>
+        <area>side^2</area>
+        <perimeter>4 * side</perimeter>
+    </type>
+     <type>
+        <name>Square</name>
+        <type>2D</type>
+        <area>side^2</area>
+        <perimeter>4 * side</perimeter>
+    </type>
+     <type>
+        <name>Square</name>
+        <type>2D</type>
+        <area>side^2</area>
+        <perimeter>4 * side</perimeter>
+    </type>
+     <type>
+        <name>Square</name>
+        <type>2D</type>
+        <area>side^2</area>
+        <perimeter>4 * side</perimeter>
+    </type>
+     <type>
+        <name>Square</name>
+        <type>2D</type>
+        <area>side^2</area>
+        <perimeter>4 * side</perimeter>
+    </type>
+     <type>
+        <name>Square</name>
+        <type>2D</type>
+        <area>side^2</area>
+        <perimeter>4 * side</perimeter>
+    </type>
+     <type>
+        <name>Square</name>
+        <type>2D</type>
+        <area>side^2</area>
+        <perimeter>4 * side</perimeter>
+    </type>
+</geometricFigures>
