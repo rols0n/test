@@ -1,0 +1,44 @@
+[
+    {
+        "line_id": "137",
+        "type": "BUS",
+        "route": "Rynek Głowny -> Podgórze",
+        "numberOfSeats": 36,
+        "departsEvery_min": 10
+    },
+        {
+        "line_id": "18",
+        "type": "Tram",
+        "route": "Górka Narodowa -> Stradom",
+        "numberOfSeats": 70,
+        "departsEvery_min": 8
+    },
+        {
+        "line_id": "307",
+        "type": "BUS",
+        "route": "Michałowice -> Krakowia Stadion",
+        "numberOfSeats": 50,
+        "departsEvery_min": 30
+    },
+        {
+        "line_id": "207",
+        "type": "BUS",
+        "route": "Łobzuzw -> AGH",
+        "numberOfSeats": 40,
+        "departsEvery_min": 15
+    },
+        {
+        "line_id": "7",
+        "type": "Tram",
+        "route": "Bronowice Małe -> Górka Narodowa",
+        "numberOfSeats": 60,
+        "departsEvery_min": 5
+    },
+        {
+        "line_id": "158",
+        "type": "BUS",
+        "route": "Podgórze -> Ruczaj",
+        "numberOfSeats": 30,
+        "departsEvery_min": 40
+    }
+]
