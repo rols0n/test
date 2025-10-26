@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rozkład_jazdy miasto="Kraków" data_generacji="2025-10-26">
+
+    <linia numer="503" typ="autobusowy">
+        <nazwa_trasy kierunek="Nowa Huta" status="aktywna">Trasa Główna Północ-Wschód</nazwa_trasy>
+        </linia>
+    
+    <linia numer="179" typ="autobusowy">
+        <nazwa_trasy kierunek="Rondo Grzegórzeckie" status="aktywna">Łączy Dworzec z Kampusem</nazwa_trasy>
+    </linia>
+
+    <linia numer="20" typ="tramwajowy">
+        <nazwa_trasy kierunek="Mały Płaszów" status="aktywna">Linia okrężna</nazwa_trasy>
+    </linia>
+
+    <linia numer="62" typ="tramwaj nocny">
+        <nazwa_trasy kierunek="Krowodrza Górka" status="ograniczona">Obsługa nocna</nazwa_trasy>
+    </linia>
+    
+</rozkład_jazdy>
