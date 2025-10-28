@@ -23,8 +23,8 @@ The table shows the top MPK bus drivers with the most fuel-efficient driving tec
 | Driver's Name | Expierience (years) | Avg Fuel Usage per 100km |  Offset * |
 |---------------|---------------------|--------------------------|-----------|
 | Marcin Dupala | 10 | 12 | -0,9 |
-| Marek CienkiCHuj | 8 | 12,1 | -0.8 |
-| Tomasz Wpierdol | 5 | 12,15 | -0.75 |
+| Marek Cieuj | 8 | 12,1 | -0.8 |
+| Tomasz Welsol | 5 | 12,15 | -0.75 |
 
 ![MPK fleet](/IMG/flota_mpk.jpg)
 ![MPK logo](/IMG/logo_mpk.jpg)
